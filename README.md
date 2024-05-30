@@ -1,3 +1,4 @@
 # Summer-Work
-This repository includes my all summer stuff related to coding
+This repository includes my all summer stuff related to coding.
+<br>
 Author Talha Sheikh
