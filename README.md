@@ -3,4 +3,4 @@ This repository includes my all summer stuff related to coding.
 <br>
 Author: Talha Sheikh
 <br>
-Sheikh Sahab.
+My name is Muhammad Talha Sheikh
